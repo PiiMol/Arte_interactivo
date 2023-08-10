@@ -1,8 +1,5 @@
-//Tp 3: Arte óptico - Ciclo For y Arrays
-//Informática general
-//Alumnas: Paula Marghetich y Pilar D. Molnar
+//Arte óptico
 
-//https://youtu.be/78WswCsnvLY
 
 
 //Hago un array que contenga cada uno de los colores
